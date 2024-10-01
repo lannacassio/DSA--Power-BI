@@ -1,3 +1,4 @@
+# Dashboard Analítico de Vendas Globais
 Trabalhei com dados de vendas de uma empresa fictícia que comercializa produtos em todos os cantos do mundo.
 
 O Dashboard deve responder as perguntas abaixo:
