@@ -3,10 +3,10 @@ Trabalhei com dados de vendas de uma empresa fictícia que comercializa produtos
 
 O Dashboard deve responder as perguntas abaixo:
 
-## •Pergunta 1 
+### •Pergunta 1 
 Qual o valor total vendido?
 
-## •Pergunta 2 
+### •Pergunta 2 
 Quantas vendas foram realizadas por categoria de produto?
 
 ## •Pergunta 3 
